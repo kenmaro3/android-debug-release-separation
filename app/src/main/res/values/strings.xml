@@ -1,0 +1,9 @@
+<resources>
+<!--    <string name="app_name">DebugReleaseSeparation</string>-->
+<!--    <string name="my_string">this is release build</string>-->
+<!--    <string name="web_client_id">398533084446-3lm42s4u5l862uipch3vm7dll8m1j9if.apps.googleusercontent.com</string>-->
+<!---->
+    <string name="app_name">DebugReleaseSeparation-dev</string>
+    <string name="my_string">this is debug build</string>
+    <string name="web_client_id">527363673448-cihhfr2fi04c5h27nmmecbe6lbs72omt.apps.googleusercontent.com</string>
+</resources>
